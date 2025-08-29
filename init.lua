@@ -1,2 +1,2 @@
-require("s742.core")
-require("s742.lazy")
+-- bootstrap lazy.nvim, LazyVim and your plugins
+require("config.lazy")
